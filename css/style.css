@@ -2,5 +2,28 @@ body{
     font-family: 'Sansita Swashed', cursive;
 }
 .mynav{
+    background-color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+.mybtn{
+    background-color: #07897e;
+    color: white;
+    display: inline-block;
+    border-radius: 5px;
+    border-width: 2px;
+    padding: 0.75rem 26px;
+    font-size: 15px;
+}
+.mybanner{
+    background-color: rgb(32, 38, 45);
+}
+.text-subtitle{
+
+}
+.text-title{
+
+}
+.text-p{
     
 }
